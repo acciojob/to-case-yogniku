@@ -1,6 +1,6 @@
 function toCase(text) {
   // write your code here
-	if (!str) return '-'; // Handle empty strings
+	if (!text) return '-'; // Handle empty strings
     
     const lowerCase = str.toLowerCase();
     const upperCase = str.toUpperCase();
