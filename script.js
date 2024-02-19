@@ -5,7 +5,7 @@ function toCase(text) {
     const lowerCase = text.toLowerCase();
     const upperCase = text.toUpperCase();
 
-    return `${lowerCase}-${upperCase};
+    return `${lowerCase}-${upperCase}`;
 
 }
 
